@@ -38,7 +38,7 @@ async function DevChatChecking() {
 
     console.log('DevChatCheking------>>>>');
     const resultsOut2 = await results({
-      process: '90O7RFBp7M2c9TkOot4Nb5r-rbN9QMUAmcxu0Hf3K6Q',
+      process: 'your id',
       from: cursor,
       sort: 'ASC',
       limit: 50,
