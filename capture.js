@@ -28,7 +28,7 @@ async function DevChatChecking() {
   try {
     if (cursor == '') {
       const resultsOut = await results({
-        process: '90O7RFBp7M2c9TkOot4Nb5r-rbN9QMUAmcxu0Hf3K6Q',
+        process: 'your id',
         sort: 'DESC',
         limit: 1,
       });
